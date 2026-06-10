@@ -95,7 +95,7 @@ python cleaning.py
 ---
 Let's Connect
 I'm actively looking for Data Scientist / Analyst opportunities.
-📧 Email: your.email@gmail.com
+📧 Email: jeromer2004@gmail.com
 💼 LinkedIn: linkedin.com/in/jerome-r
 🐙 GitHub: github.com/JeromeR
 ---
